@@ -1,0 +1,41 @@
+Problem1:-
+Input:-
+Enter the filename to read from: 
+nhlstats
+
+Output:-
+Most aggresive player his team and his position is 
+Most Aggresive player is Clowe of team NYR and hs position is RW
+
+Most game winning goal scored by team and points::
+Most game wining goal of team is given  PIT  25
+
+Most penalty in minutes of team is given::
+Most penality minutes of team is given  BOS  294
+
+Most valuable player his team is 
+Most valuable player is Carter of team LA
+
+Most promsing player his team  is 
+Most promising player is Kane of team WPG
+
+Most Point scored by player his team and his points is 
+Most point scored by player is Stamkos of team TB and hs points is 57
+
+
+
+
+Problem2:-
+Input:-
+Enter the file name to be read from : 
+name1
+Enter he file name to be read from: 
+name2
+
+Output:-
+Elements in first list:---
+[Aaron, Barbara, Beth, Fred, Jack, Jim, Shai, Tom]
+Elements in second list::
+[Amar, Hillar, Jarred, Jill, Ralph]
+Elements after sorting both list with two finger walking algorithm::
+[Aaron, Amar, Barbara, Beth, Fred, Hillar, Jack, Jarred, Jill, Jim, Ralph, Shai, Tom]

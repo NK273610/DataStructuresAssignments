@@ -1,0 +1,46 @@
+Input:-
+
+Enter or done
+a
+Enter or done
+b
+Enter or done
+c
+Enter or done
+d
+Enter or done
+done
+
+
+output:-
+Maximum is
+d
+
+Minimum is
+null
+
+
+Input:-
+
+Enter element to be found
+a
+the element is present a
+
+
+Input:-
+Enter or done
+a
+Enter or done
+b
+Enter or done
+c
+Enter or done
+d
+Enter or done
+e
+Enter or done
+done
+
+Output:-
+The given tree is binarysearch tree
+false

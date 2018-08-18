@@ -1,0 +1,28 @@
+Default value-10,5,3,3
+
+
+input-11,6,1,1
+output-True
+       False
+       
+input-13,5,2,2
+output-False
+       True
+       
+input-18,19,1,1
+output-False
+       False   
+       
+input-11,6,2,2
+output-True
+       True
+     
+input-11,6,8,7
+output-False
+       False
+       
+       
+input-13,6,2,2
+output-False
+       true
+            

@@ -1,0 +1,73 @@
+Problem1:-
+Enter the filename to read from: 
+slist
+
+Enter any major for display records: 
+Music
+
+Enter any email for display records: 
+kwest@email.com
+
+Enter any first name and last name for display records: 
+Tom
+Erlich
+
+Enter any faculty for display records: 
+Business
+
+Enter any id for display records: 
+200123
+
+Output:-
+
+Student [studentId=200120, fname=Kate, lname=West, email=kwest@email.com, major=Music, faculty=Arts]
+Student [studentId=200120, fname=Kate, lname=West, email=kwest@email.com, major=Music, faculty=Arts]
+Student [studentId=200122, fname=Tom, lname=Erlich, email=terlich@email.com, major=Sculpture, faculty=Arts]
+Student [studentId=200121, fname=Julie, lname=Maclain, email=jmaclain@email.com, major=Finance, faculty=Business]
+Student [studentId=200123, fname=Mark, lname=Smith, email=msmith@email.com, major=Biology, faculty=Science]
+
+
+
+
+
+
+Problem 2:-
+Input:-
+Enter length of list 1 and list 2:
+4
+5
+Enter item of list1:
+A
+B
+C
+D
+Enter item for list2:
+B
+D
+F
+G
+H
+
+Output:-
+[A, B, C, D, F, G, H]
+[B, D]
+[A, B, B, D, C, D]
+[A, C]
+
+
+
+Problem 3:-
+
+Welcome to Country Capital Quiz: Play?
+yes
+
+What is capital of Oman
+bf
+ 
+Sorry wrong Answer, The correct ans is :Muscat Do you want to play again press yes: 
+yes
+What is capital of Kosovo
+fd
+ Sorry wrong Answer, The correct ans is :Pristina Do you want to play again press yes: 
+No
+Thanks you playing the game 
